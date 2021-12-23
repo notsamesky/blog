@@ -1,0 +1,7 @@
+编号,名称,资源,出现层,概率权重,出现数量,大小（高）,血量,特效
+id,name,res,appearLayer,weight,num,bsize,hp,effect
+int,string,string,int,int,int,int,int,string
+1,黄砖,huang,1,7000,1,1,1,zk_ef_hit_01
+2,红砖,hui,100,1000,1,1,2,zk_ef_hit_02
+3,黑砖,hei,150,1500,2,1,1,zk_ef_hit_03
+4,紫砖,hong,225,500,1,2,1,zk_ef_hit_04

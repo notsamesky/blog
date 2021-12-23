@@ -1,0 +1,6 @@
+id,最小奖励,最大奖励,时间（秒）
+id,minCoin,maxCoin,time
+int,int,int,int
+1,50,150,0
+2,100,200,600
+3,200,300,1800

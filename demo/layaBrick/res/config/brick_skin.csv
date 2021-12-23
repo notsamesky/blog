@@ -1,0 +1,16 @@
+编号,装备名称,飞行资源,商店资源,货币数量,0随机购买1皮肤
+id,name,flyRes,shopRes,money,type
+int,string,string,string,int,int
+0,随机,0,PiFu_0,800,0
+1,方块,dandao_pifu_1,PiFu_1,800,1
+2,精灵球,dandao_pifu_2,PiFu_2,800,1
+3,风火轮,dandao_pifu_3,PiFu_3,800,1
+4,僵尸,dandao_pifu_4,PiFu_4,800,1
+5,飞船,dandao_pifu_5,PiFu_5,800,1
+6,召财猫,dandao_pifu_6,PiFu_6,800,1
+7,尖叫鸡,dandao_pifu_7,PiFu_7,800,1
+8,福字,dandao_pifu_8,PiFu_8,800,1
+9,大宝剑,dandao_pifu_9,PiFu_9,800,1
+10,坦克,dandao_pifu_10,PiFu_10,800,1
+11,汉堡,dandao_pifu_11,PiFu_11,800,1
+12,飞机,dandao_pifu_12,PiFu_12,800,1
